@@ -39,6 +39,20 @@ pheno_correlated = FALSE
 
 Users should check these settings before re-running model-fitting scripts.
 
+## Analysis workflow
+
+The code/ folder contains both main analysis scripts and supporting plotting or utility functions. The main workflow is organised as follows:
+
+- Preparation.R prepares the trait dataset and phylogenetic tree for model fitting. 
+
+- Scripts in code/all8/ fit models for the eight selected traits.
+
+- Scripts in code/high_correlation_traits fit the corresponding univariate and multivariate models for the six functional trait clusters.
+
+- Plotting scripts in code/functions/ generate the figures and summary tables used in the dissertation. 
+
+Users wishing to reproduce the main dissertation results should begin with Preparation.R, then run the model-fitting scripts for the eight selected traits and the six functional trait clusters before running the summary and plotting scripts.
+
 ## V.PhyloMaker2
 
 The phylogenetic tree used in the analysis was prepared outside this repository using `V.PhyloMaker2`. Because `V.PhyloMaker2` is not available from CRAN, it should be installed from GitHub, for example:
