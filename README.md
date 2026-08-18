@@ -14,14 +14,6 @@ Main data references:
 - Maynard et al. (2022): https://doi.org/10.1038/s41467-022-30888-2
 - Associated archive: https://doi.org/10.5281/zenodo.6564051
 
-Expected local input files should be placed in:
-
-```text
-data/restricted/
-```
-
-This folder is excluded from version control.
-
 ## Code
 
 All analysis scripts are stored in:
@@ -36,14 +28,7 @@ The code uses project-relative paths through `here::here()`. Therefore, scripts 
 Tree-Trait-Rphylopars.Rproj
 ```
 
-Before running the scripts, users should check that local file paths match the expected repository structure. In particular, paths should use:
-
-```r
-here::here("data", "restricted", ...)
-here::here("results", ...)
-```
-
-rather than absolute paths or machine-specific folders.
+Before running the scripts, users should check that local file paths match the expected repository structure. 
 
 Some scripts were used for exploratory or intermediate analyses. The final model comparisons reported in the dissertation use:
 
@@ -63,17 +48,7 @@ install.packages("remotes")
 remotes::install_github("jinyizju/V.PhyloMaker2")
 ```
 
-After installation, users should prepare the required species list and generate or prune the phylogeny locally. The resulting tree file should be saved in:
-
-```text
-data/restricted/
-```
-
-For example:
-
-```text
-data/restricted/no_monocots_tree.nwk
-```
+After installation, users should prepare the required species list and generate or prune the phylogeny locally. 
 
 ## Computational notes
 
