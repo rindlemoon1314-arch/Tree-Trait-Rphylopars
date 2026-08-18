@@ -1,0 +1,193 @@
+"group","trait","analysis","configuration_label","folds_used","r2"
+"All8","Wood_density","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.545002793623823
+"All8","Wood_density","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.527944297249017
+"All8","Wood_density","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.579276629185732
+"All8","Wood_density","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.437436840390299
+"All8","Wood_density","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.554926880914928
+"All8","Wood_density","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.504327441626634
+"All8","Wood_density","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.578457018561899
+"All8","Wood_density","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.51604749399448
+"All8","Specific_leaf_area","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.521136852981074
+"All8","Specific_leaf_area","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.510028883532438
+"All8","Specific_leaf_area","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.546844568383952
+"All8","Specific_leaf_area","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.390608971561977
+"All8","Specific_leaf_area","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.526049657335024
+"All8","Specific_leaf_area","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.516202903850504
+"All8","Specific_leaf_area","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.558787298193452
+"All8","Specific_leaf_area","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.513772232205639
+"All8","Seed_dry_mass","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.737028093763141
+"All8","Seed_dry_mass","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.723542891055422
+"All8","Seed_dry_mass","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.744261997254381
+"All8","Seed_dry_mass","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.69077463108123
+"All8","Seed_dry_mass","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.738828162738709
+"All8","Seed_dry_mass","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.618736559964965
+"All8","Seed_dry_mass","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.743956346740257
+"All8","Seed_dry_mass","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.616600945464833
+"All8","Leaf_P_per_mass","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.261952562227644
+"All8","Leaf_P_per_mass","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.252024508942107
+"All8","Leaf_P_per_mass","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.351099265566494
+"All8","Leaf_P_per_mass","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.171534171987023
+"All8","Leaf_P_per_mass","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.27354516739968
+"All8","Leaf_P_per_mass","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.274515338663783
+"All8","Leaf_P_per_mass","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.359652674603114
+"All8","Leaf_P_per_mass","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.19639526631705
+"All8","Stem_conduit_diameter","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.635021700363744
+"All8","Stem_conduit_diameter","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.612110205531981
+"All8","Stem_conduit_diameter","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.685995571166177
+"All8","Stem_conduit_diameter","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.63779171016177
+"All8","Stem_conduit_diameter","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.666677004319737
+"All8","Stem_conduit_diameter","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.661552052569507
+"All8","Stem_conduit_diameter","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.685995288951186
+"All8","Stem_conduit_diameter","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",-1.48575968376458
+"All8","Tree_height","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.269190587471248
+"All8","Tree_height","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.253520876844039
+"All8","Tree_height","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.347998090142947
+"All8","Tree_height","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.311091461758069
+"All8","Tree_height","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.294829510160598
+"All8","Tree_height","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.273936454472714
+"All8","Tree_height","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.358352115441868
+"All8","Tree_height","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.325598629696764
+"All8","Root_depth","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.274283630452731
+"All8","Root_depth","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.244882619454409
+"All8","Root_depth","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.34583545079586
+"All8","Root_depth","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.230491413372942
+"All8","Root_depth","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.28760843297952
+"All8","Root_depth","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.290224376093412
+"All8","Root_depth","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.359103797673726
+"All8","Root_depth","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.144374771249734
+"All8","Bark_thickness","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.405176108059912
+"All8","Bark_thickness","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.245737572154305
+"All8","Bark_thickness","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.445829140870693
+"All8","Bark_thickness","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.406909196879625
+"All8","Bark_thickness","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.426868656341013
+"All8","Bark_thickness","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.348637468624811
+"All8","Bark_thickness","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.45256542441622
+"All8","Bark_thickness","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.311629428632656
+"Cluster 1","Leaf_N_per_mass","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.613155121253339
+"Cluster 1","Leaf_N_per_mass","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.611151382094203
+"Cluster 1","Leaf_N_per_mass","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.622894614666932
+"Cluster 1","Leaf_N_per_mass","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.637127206831684
+"Cluster 1","Leaf_N_per_mass","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.619212968098859
+"Cluster 1","Leaf_N_per_mass","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.629749604437355
+"Cluster 1","Leaf_N_per_mass","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.637974461128198
+"Cluster 1","Leaf_N_per_mass","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.65339231566262
+"Cluster 1","Specific_leaf_area","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.516205422600086
+"Cluster 1","Specific_leaf_area","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.530678053078891
+"Cluster 1","Specific_leaf_area","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.545269921542581
+"Cluster 1","Specific_leaf_area","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.580455902847852
+"Cluster 1","Specific_leaf_area","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.524565110941267
+"Cluster 1","Specific_leaf_area","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.537067362063608
+"Cluster 1","Specific_leaf_area","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.557295456549354
+"Cluster 1","Specific_leaf_area","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.591222190123583
+"Cluster 1","Leaf_thickness","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.465487614122122
+"Cluster 1","Leaf_thickness","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.485374292575655
+"Cluster 1","Leaf_thickness","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.487750711634644
+"Cluster 1","Leaf_thickness","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.572654023977906
+"Cluster 1","Leaf_thickness","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.487936855932754
+"Cluster 1","Leaf_thickness","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.536997857481341
+"Cluster 1","Leaf_thickness","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.51182048537386
+"Cluster 1","Leaf_thickness","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.594456418280626
+"Cluster 2","Stem_conduit_diameter","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.615954441339086
+"Cluster 2","Stem_conduit_diameter","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.606772076813513
+"Cluster 2","Stem_conduit_diameter","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.650579815404884
+"Cluster 2","Stem_conduit_diameter","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.548467521408681
+"Cluster 2","Stem_conduit_diameter","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.636148738957802
+"Cluster 2","Stem_conduit_diameter","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.620717678473519
+"Cluster 2","Stem_conduit_diameter","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.65058069039952
+"Cluster 2","Stem_conduit_diameter","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.622445955283677
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.149512454191664
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",-3.291488565307
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.245633800378958
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.109093470851749
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.229888735206757
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.254003693874886
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.267671985531464
+"Cluster 2","Leaf_Vcmax_per_dry_mass","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.219626217319777
+"Cluster 2","Stomatal_conductance","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.14621044373091
+"Cluster 2","Stomatal_conductance","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.089267399512282
+"Cluster 2","Stomatal_conductance","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.190750434152321
+"Cluster 2","Stomatal_conductance","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.119364753844498
+"Cluster 2","Stomatal_conductance","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.210572711354831
+"Cluster 2","Stomatal_conductance","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.217392176115953
+"Cluster 2","Stomatal_conductance","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.250016572539871
+"Cluster 2","Stomatal_conductance","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.246627151056028
+"Cluster 2","Leaf_area","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.602552513506869
+"Cluster 2","Leaf_area","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.59999977555006
+"Cluster 2","Leaf_area","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.62006586864853
+"Cluster 2","Leaf_area","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.397620483017055
+"Cluster 2","Leaf_area","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.593111719436898
+"Cluster 2","Leaf_area","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.560155937751617
+"Cluster 2","Leaf_area","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.610424554862576
+"Cluster 2","Leaf_area","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.60916208951029
+"Cluster 3","Leaf_K_per_mass","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.21409970805493
+"Cluster 3","Leaf_K_per_mass","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.215644922309994
+"Cluster 3","Leaf_K_per_mass","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.33135429326535
+"Cluster 3","Leaf_K_per_mass","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.372267376500405
+"Cluster 3","Leaf_K_per_mass","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.242658458640877
+"Cluster 3","Leaf_K_per_mass","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.21110224468553
+"Cluster 3","Leaf_K_per_mass","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.336212227312258
+"Cluster 3","Leaf_K_per_mass","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.376061863652835
+"Cluster 3","Leaf_P_per_mass","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.285175352138069
+"Cluster 3","Leaf_P_per_mass","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.277731036368796
+"Cluster 3","Leaf_P_per_mass","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.358722380796815
+"Cluster 3","Leaf_P_per_mass","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.372455741737368
+"Cluster 3","Leaf_P_per_mass","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.301217622544729
+"Cluster 3","Leaf_P_per_mass","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.305750625700024
+"Cluster 3","Leaf_P_per_mass","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.367826037873572
+"Cluster 3","Leaf_P_per_mass","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.381676088677261
+"Cluster 4","Leaf_density","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.144298042838501
+"Cluster 4","Leaf_density","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.1508737540515
+"Cluster 4","Leaf_density","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.212303013132772
+"Cluster 4","Leaf_density","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.228929124913171
+"Cluster 4","Leaf_density","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.160731798226111
+"Cluster 4","Leaf_density","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.169816436165425
+"Cluster 4","Leaf_density","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.215166076849976
+"Cluster 4","Leaf_density","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.248737416094677
+"Cluster 4","Wood_density","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.566292821292421
+"Cluster 4","Wood_density","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.56716233368501
+"Cluster 4","Wood_density","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.596012767574503
+"Cluster 4","Wood_density","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.597197964670559
+"Cluster 4","Wood_density","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.569236089199895
+"Cluster 4","Wood_density","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.553570795053738
+"Cluster 4","Wood_density","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.593566783910639
+"Cluster 4","Wood_density","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.592745267572012
+"Cluster 5","Bark_thickness","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.417110357550999
+"Cluster 5","Bark_thickness","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",-0.202075867844867
+"Cluster 5","Bark_thickness","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.45972772496113
+"Cluster 5","Bark_thickness","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.462029472373299
+"Cluster 5","Bark_thickness","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.444608504355241
+"Cluster 5","Bark_thickness","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.403693143104021
+"Cluster 5","Bark_thickness","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.477208018189387
+"Cluster 5","Bark_thickness","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.487981916696179
+"Cluster 5","Stem_diameter","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.118213953535646
+"Cluster 5","Stem_diameter","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.0252491474386932
+"Cluster 5","Stem_diameter","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.233787190604102
+"Cluster 5","Stem_diameter","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.241158431059437
+"Cluster 5","Stem_diameter","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.143450715709691
+"Cluster 5","Stem_diameter","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.135028688802638
+"Cluster 5","Stem_diameter","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.25916191532911
+"Cluster 5","Stem_diameter","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.266980604592453
+"Cluster 6","Crown_height","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",-0.310535693959554
+"Cluster 6","Crown_height","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",-0.0634130246579929
+"Cluster 6","Crown_height","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.0367878094862828
+"Cluster 6","Crown_height","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.200133481834818
+"Cluster 6","Crown_height","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",-0.183865969903424
+"Cluster 6","Crown_height","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.0790639438577683
+"Cluster 6","Crown_height","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.0158771446101306
+"Cluster 6","Crown_height","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.248078524805094
+"Cluster 6","Crown_diameter","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",-0.165794478229105
+"Cluster 6","Crown_diameter","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.254895747634546
+"Cluster 6","Crown_diameter","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.0782908704671733
+"Cluster 6","Crown_diameter","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.215886251383948
+"Cluster 6","Crown_diameter","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.0535455424943501
+"Cluster 6","Crown_diameter","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.217792534400733
+"Cluster 6","Crown_diameter","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.00834421409779529
+"Cluster 6","Crown_diameter","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.333134099524459
+"Cluster 6","Tree_height","Single trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.247491303839466
+"Cluster 6","Tree_height","Multi-trait","BM_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.233714890715237
+"Cluster 6","Tree_height","Single trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.332498589478111
+"Cluster 6","Tree_height","Multi-trait","BM_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.336159130252217
+"Cluster 6","Tree_height","Single trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.268931540234638
+"Cluster 6","Tree_height","Multi-trait","lambda_FTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.268840767202186
+"Cluster 6","Tree_height","Single trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.337116795424961
+"Cluster 6","Tree_height","Multi-trait","lambda_TTF","fold_1, fold_3, fold_5, fold_6, fold_8, fold_10",0.339749519799691
